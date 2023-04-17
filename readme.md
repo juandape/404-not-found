@@ -18,9 +18,9 @@ Make a responsive 404 not found page
 I learn and practice some of html and css to create a responsive page
 
 ## Author
-Juan Daviod Peña
-github - @juandape
-email - juandavidp76@hotmail.com
+Juan David Peña  
+github - @juandape  
+email - juandavidp76@hotmail.com  
 
 ## Acknowledgments
 Thanks to Make it Real to show me a path to become a better programmer
