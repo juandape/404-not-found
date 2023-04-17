@@ -1,12 +1,14 @@
 body {
   font-family: "Space Mono";
-  margin: 30px;
+  margin: 50px;
   max-width: 1440px;
+  height: auto;
 }
 
 .container{
 display: flex;
 margin-top: 100px;
+align-items: center;
 }
 
 .button {
